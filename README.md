@@ -3,3 +3,5 @@
 ## Student Name: Casey Hsu - 101376814
 
 ### Type ng serve to start the application
+
+### Screenshot proof is located in 101376814-proof.docx
