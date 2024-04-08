@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #004085;
+    padding: 0 20px; /* Added padding on left and right */
+  }
+  
+  .navbar-brand, .nav-item.nav-link {
+    color: white;
+  }
+  
+  .nav-item.nav-link:hover {
+    color: #ccc; /* Lighter shade when hovered */
+    transition: color 0.3s;
+  }

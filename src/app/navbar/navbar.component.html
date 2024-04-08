@@ -1,0 +1,9 @@
+<nav class="navbar">
+  <a class="navbar-brand">Casey's Fullstack Assignment</a>
+
+  <div class="navbar-nav">
+    <a class="nav-item nav-link" href="/employees">Employees List</a>
+  </div>
+
+  <button class="btn btn-danger" *ngIf="isLoggedIn | async" (click)="logout()">Logout</button>
+</nav>
