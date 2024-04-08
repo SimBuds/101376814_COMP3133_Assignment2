@@ -42,7 +42,7 @@ import { EmployeeEditComponent } from './employee-edit/employee-edit.component';
         return {
           cache: new InMemoryCache(),
           link: httpLink.create({
-            uri: 'http://localhost:5000/graphql'
+            uri: 'https://one01376814-comp3133-assignment1.onrender.com/graphql'
           }),
         };
       },
